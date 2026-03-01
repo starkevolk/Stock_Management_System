@@ -1,5 +1,3 @@
-<img width="431" height="200" alt="image" src="https://github.com/user-attachments/assets/1bddaebe-09c9-42ba-b5e5-be3c9ee77592" />SISTEM MANAJEMEN GUDANG SPORTWEAR (LYVA)
-
 **LYVA Sportswear Warehouse Management System**
 Please read this before you proceed to run the application
 
